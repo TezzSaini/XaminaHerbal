@@ -1,0 +1,14 @@
+.prod-serv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.serv-heading{
+    text-align: center;
+}
+
+.service-box{
+    background-color: #E0E0E0;
+    padding-top: 20px;
+}

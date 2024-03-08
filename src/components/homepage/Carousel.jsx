@@ -1,4 +1,4 @@
-import '../css/carousel.css'
+import '../../css/carousel.css'
 import cowImage from '../../assets/cow.jpg'
 import buffaloImage from '../../assets/buffalo.jpg'
 import goatImage from '../../assets/goat.jpg'
@@ -22,14 +22,17 @@ function carousel(){
                 <div className="carousel-item">
                     <img src={goatImage} class="carousel-image" alt="carousel-3" />
                 </div>
+                <div className='text-and-search'>
+                    <div className="carousel-text">
+                        <h2>Hey, This is Xamina Herbal Official Website</h2>
+                        <p>We have the best medication and diet for your loved pets.</p>
+                    </div>
+                    <div className="carousel-search-box">
+                        <input className="search-box-carousel" type="search" placeholder="Search here" aria-label="Search" />
+                    </div>
+                </div>
             </div>
-            <div className="carousel-text">
-                <h2>Hey, This is Xamina Herbal Official Website</h2>
-                <p>We have the best medication and diet for your loved pets.</p>
-            </div>
-            <div className="carousel-search-box">
-                    <input className="search-box-carousel" type="search" placeholder="Search here" aria-label="Search" />
-            </div>
+           
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
                 <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span className="visually-hidden">Previous</span>
