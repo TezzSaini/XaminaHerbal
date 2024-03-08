@@ -6,6 +6,7 @@ import Navbar from './components/homepage/Navbar'
 import Carousel from './components/homepage/Carousel'
 import Services from './components/homepage/services'
 import AboutCompany from './components/homepage/AboutCompany'
+import Footer from './components/homepage/footer'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -14,5 +15,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
        <Carousel />
        <Services/>
        <AboutCompany />
+       <Footer />
   </React.StrictMode>,
 )
