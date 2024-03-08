@@ -1,0 +1,35 @@
+.carousel-image{
+    width: 100%;
+    height: 420px;
+    filter: brightness(50%);
+}
+
+.carousel-search-box{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+}
+
+.search-box-carousel{
+    width: 500px;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: white;
+    background-color: grey;
+    opacity: 0.5;
+    padding-left: 8px;
+}
+
+::placeholder{
+    color: white;
+}
+
+.carousel-text{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: white;
+    text-wrap: wrap;
+    width: 500px;
+    text-align: center;
+}
