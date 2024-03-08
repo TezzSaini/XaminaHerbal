@@ -5,6 +5,7 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 import Navbar from './components/homepage/Navbar'
 import Carousel from './components/homepage/Carousel'
 import Services from './components/homepage/services'
+import AboutCompany from './components/homepage/AboutCompany'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -12,5 +13,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
        <Navbar />
        <Carousel />
        <Services/>
+       <AboutCompany />
   </React.StrictMode>,
 )
