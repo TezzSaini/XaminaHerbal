@@ -25,8 +25,8 @@ function Footer(){
             </div>
         </div>
         <div className='footer-copyright'>
-                <p>Copyright by Xamina Herbal</p>
-                <p>Developed by TezzBaba</p>
+                <p>All copyrights reserved to Xamina Herbal</p>
+                <p>Developed by <a href='https://www.linkedin.com/in/tejendrasaini/'>TezzBaba</a></p>
         </div>
         </>
     )
