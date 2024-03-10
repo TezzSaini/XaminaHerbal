@@ -4,9 +4,10 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.bundle'
 import Navbar from './components/homepage/Navbar'
 import Carousel from './components/homepage/Carousel'
-import Services from './components/homepage/services'
+import Services from './components/homepage/Services'
+import Footer from './components/homepage/Footer'
 import AboutCompany from './components/homepage/AboutCompany'
-import Footer from './components/homepage/footer'
+
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(

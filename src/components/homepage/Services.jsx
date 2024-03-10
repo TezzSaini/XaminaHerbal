@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../css/services.css';
-import ServiceItems from './serviceitems';
+import ServiceItems from './ServiceItems';
 import serviceImage1 from '../../assets/cow.png';
 import serviceImage2 from '../../assets/buffalo.png';
 import serviceImage3 from '../../assets/goat.png';
