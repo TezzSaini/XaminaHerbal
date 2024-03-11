@@ -1,5 +1,5 @@
-import '../../css/aboutcompany.css'
-import serviceImage1 from '../../assets/cow.png';
+import '../css/aboutcompany.css'
+import serviceImage1 from '../assets/cow.png';
 
 function AboutCompany(){
     return(

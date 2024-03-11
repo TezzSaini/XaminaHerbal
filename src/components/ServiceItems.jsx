@@ -1,4 +1,4 @@
-import '../../css/serviceitems.css'
+import '../css/serviceitems.css'
 
 function ServiceItems({serviceImage, servicetitle, servicedetails}){
     return(

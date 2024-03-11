@@ -1,7 +1,7 @@
-import '../../css/carousel.css'
-import cowImage from '../../assets/cow.jpg'
-import buffaloImage from '../../assets/buffalo.jpg'
-import goatImage from '../../assets/goat.jpg'
+import '../css/carousel.css'
+import cowImage from '../assets/cow.jpg'
+import buffaloImage from '../assets/buffalo.jpg'
+import goatImage from '../assets/goat.jpg'
 
 function carousel(){
     return(

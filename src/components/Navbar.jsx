@@ -1,6 +1,6 @@
-import '../../css/navbar.css'
+import '../css/navbar.css'
 
-function navbar(){
+function Navbar(){
     return(
         <>
         <nav className="navbar navbar-background">
@@ -16,4 +16,4 @@ function navbar(){
     )
 }
 
-export default navbar;
+export default Navbar;

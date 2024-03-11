@@ -1,5 +1,5 @@
-import '../../css/footer.css'
-import serviceImage2 from '../../assets/buffalo.png';
+import '../css/footer.css'
+import serviceImage2 from '../assets/buffalo.png'
 
 function Footer(){
     return(

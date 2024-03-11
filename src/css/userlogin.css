@@ -1,0 +1,32 @@
+.login-arena{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: calc(100vh - 55px);
+   background-color: #e8fbe8;
+}
+
+.login-box{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 50px 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.login-box-head{
+    color: #8db600;
+}
+
+.login-submit-btn{
+    background-color: #8db600;
+}
+
+.lgn-bar{
+    margin-bottom: 15px;
+}
+
+.form-control{
+    background-color: #8db600;
+}
